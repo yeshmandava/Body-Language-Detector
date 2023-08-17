@@ -1,5 +1,3 @@
-**README
-**
 Project: Real-Time Body Language Recognition with Webcam Feed
 
 This project is a real-time body language recognition system that utilizes computer vision and machine learning techniques. It leverages the Mediapipe library for detecting and tracking landmarks on human faces, hands, and body poses. The goal of the project is to detect and classify specific body language gestures and display the results on a live webcam feed.
